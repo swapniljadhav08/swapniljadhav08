@@ -96,11 +96,16 @@ Passionate about **LLMs, system design, and scalable applications**.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me  
 
-* 💼 LinkedIn: *Add your link*
-* 🌍 Portfolio: *Add if available*
-* 📧 Email: *Add your email*
+<p align="left">
+  <a href="https://www.linkedin.com/in/swapniljadhav26/">
+    <img src="https://img.shields.io/badge/LinkedIn-Swapnil%20Jadhav-blue?logo=linkedin" />
+  </a>
+  <a href="mailto:sm2021jadhav@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" />
+  </a>
+</p>
 
 ---
 
