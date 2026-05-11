@@ -1,114 +1,35 @@
-# 👋 Hi, I'm Swapnil Jadhav
+<!-- ========================= HERO SECTION ========================= -->
 
-🚀 **AI Developer | Full Stack Engineer | Building Intelligent Systems**
+<p align="center">
+  <img src="https://wallpaperaccess.com/full/5651980.gif" width="100%" alt="Coding Banner"/>
+</p>
 
-I build **AI-powered products** that solve real-world problems — from education platforms to cybersecurity tools and smart automation systems.
-Passionate about **LLMs, system design, and scalable applications**.
+<h1 align="center">👋 Hey, I'm Swapnil Jadhav</h1>
 
----
+<h3 align="center">
+🚀 AI Developer • Full Stack Engineer • Building Intelligent Systems
+</h3>
 
-## 🧠 About Me
-
-* 🔭 Currently working on **AI-driven platforms & real-world products**
-* 🤖 Strong focus on **Machine Learning + Full Stack Development**
-* ⚡ Love building **end-to-end systems (Frontend → Backend → AI)**
-* 📈 Always exploring **new AI tools, APIs & scalable architectures**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-
-`JavaScript` `Python` `Java`
-
-### 🌐 Frontend
-
-`React.js` `Vite` `Tailwind CSS` `Framer Motion`
-
-### ⚙️ Backend
-
-`Node.js` `Express.js` `FastAPI`
-
-### 🧠 AI / ML
-
-`Scikit-learn` `LLMs` `Whisper` `Vector DB (Qdrant)`
-
-### 🗄️ Databases
-
-`MongoDB` `Firebase` `Neo4j` `Redis`
-
-### ☁️ Tools & Services
-
-`Cloudinary` `AWS Polly` `Firebase Auth` `Docker (Basics)`
-
----
-
-## 🚀 Featured Projects
-
-### 🎓 Eta OTT — AI Learning Ecosystem
-
-📌 AI-powered platform that transforms PDFs, videos & web content into **interactive learning experiences**
-
-* 🤖 AI Tutor with context-aware responses
-* 🕸️ Knowledge Graph using Neo4j
-* 🔍 Semantic Search with Vector DB
-* ⚡ Real-time doubt solving system
-
-👉 Built using **React + Node.js + FastAPI + AI pipelines**
-📎 Based on: 
-
----
-
-### 🛡️ PhishGuard — Phishing Detection System
-
-📌 AI-based cybersecurity tool to detect malicious URLs in real-time
-
-* 🧠 ML Ensemble (SVM + Logistic Regression + Random Forest)
-* 🔍 Deep URL & HTML feature extraction
-* ⚡ FastAPI real-time prediction system
-* 📊 Interactive dashboard
-
-👉 Built using **React + FastAPI + Scikit-learn**
-📎 Based on: 
-
----
-
-### ✈️ AI Trip Planner
-
-📌 Smart travel planner that generates personalized itineraries using AI
-
-* 🤖 AI-based trip generation (Google Gemini)
-* 🗺️ Google Maps integration
-* 🔐 Firebase authentication
-* 📂 Trip storage & management
-
-👉 Built using **React + Firebase + Gemini AI**
-📎 Based on: 
-
----
-
-## 📊 GitHub Stats
-
-![Swapnil's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=radical)
-
----
-
-## 🌐 Connect With Me  
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/swapniljadhav26/">
-    <img src="https://img.shields.io/badge/LinkedIn-Swapnil%20Jadhav-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:sm2021jadhav@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" />
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer+%7C+Full+Stack+Engineer;Building+Scalable+AI+Products;Machine+Learning+%2B+MERN+Stack;FastAPI+%7C+React+%7C+LLMs+%7C+Vector+DBs" />
 </p>
 
 ---
 
-## ⚡ Fun Fact
+# 🧠 About Me
 
-I don’t just build projects — I build **systems that think, learn, and scale** 🚀
+```yaml
+Name: Swapnil Jadhav
+Role: Full Stack AI Developer
+Location: Maharashtra, India
+Focus:
+  - AI Powered Applications
+  - Scalable Backend Systems
+  - Machine Learning
+  - Real-Time Applications
+  - Intelligent Automation
+
+Currently Building:
+  - AI Learning Platforms
+  - Cybersecurity Tools
+  - AI Productivity Systems
