@@ -89,9 +89,7 @@
 
 ## 🛡️ PhishGuard – AI Phishing Detection System
 
-<p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="80%" />
-</p>
+
 
 ### 🛠️ Tools
 `React.js` `FastAPI` `Scikit-learn` `MongoDB` `Python`
@@ -107,9 +105,7 @@
 
 ## 💬 VibeChat – Real-Time Social Platform
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70%" />
-</p>
+
 
 ### 🛠️ Tools
 `React.js` `Node.js` `Socket.io` `MongoDB` `Firebase`
